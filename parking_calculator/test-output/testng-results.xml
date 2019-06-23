@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7727" started-at="2019-06-23T20:34:12Z" finished-at="2019-06-23T20:34:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7727" started-at="2019-06-23T20:34:12Z" finished-at="2019-06-23T20:34:19Z">
+      <class name="parking_calculator.ShortTermParking">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:parking_calculator.ShortTermParking@7cd62f43]" name="beforeTest" is-config="true" duration-ms="3963" started-at="2019-06-23T13:34:12Z" finished-at="2019-06-23T13:34:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="shortTermParking(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:parking_calculator.ShortTermParking@7cd62f43]" name="shortTermParking" duration-ms="1314" started-at="2019-06-23T13:34:16Z" data-provider="getData" finished-at="2019-06-23T13:34:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6/20/2019]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6/20/2019]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shortTermParking -->
+        <test-method status="PASS" signature="shortTermParking(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:parking_calculator.ShortTermParking@7cd62f43]" name="shortTermParking" duration-ms="847" started-at="2019-06-23T13:34:17Z" data-provider="getData" finished-at="2019-06-23T13:34:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6/20/2019]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6/20/2019]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shortTermParking -->
+        <test-method status="PASS" signature="shortTermParking(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:parking_calculator.ShortTermParking@7cd62f43]" name="shortTermParking" duration-ms="852" started-at="2019-06-23T13:34:18Z" data-provider="getData" finished-at="2019-06-23T13:34:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6/20/2019]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6/20/2019]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shortTermParking -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:parking_calculator.ShortTermParking@7cd62f43]" name="afterTest" is-config="true" duration-ms="728" started-at="2019-06-23T13:34:19Z" finished-at="2019-06-23T13:34:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- parking_calculator.ShortTermParking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
